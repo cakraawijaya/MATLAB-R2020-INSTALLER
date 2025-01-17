@@ -13,11 +13,11 @@ To install MATLAB software on your computer. MATLAB (Matrix Laboratory) is a pro
 
 • Make sure all downloaded parts are in one folder.
 
-• Right-click ``` MATLAB R2020a v9.8.0.1323502.GM.part1 ``` -> Select ``` Extract Here ```.
+• Right click ``` MATLAB R2020a v9.8.0.1323502.GM.part1 ``` -> Select ``` Extract Here ```.
 
-• Open Folder ``` MATLAB R2020a v9.8.0.1323502.GM ``` -> Right-click ``` Matlab98R2020a_Win64.iso ``` -> Select ``` Mount ```.
+• Open Folder ``` MATLAB R2020a v9.8.0.1323502.GM ``` -> Right click ``` Matlab98R2020a_Win64.iso ``` -> Select ``` Mount ```.
 
-• Right-click ``` setup.exe ``` -> Select ``` Run as administrator ```.
+• Right click ``` setup.exe ``` -> Select ``` Run as administrator ```.
 
 • Enter the serial number, generally using the serial number of the ``` standalone license ```.
 
