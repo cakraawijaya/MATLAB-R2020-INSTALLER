@@ -37,7 +37,7 @@ Untuk menginstal perangkat lunak MATLAB di komputer Anda. MATLAB (Matrix Laborat
 
 • Replace file yang asli.
 
-• Kemudian salin ``` license_standalone.lic ``` -> Paste ke folder ``` Licenses ``` (C:\Program Files\MATLAB\R2020a\licenses).
+• Kemudian salin ``` license_standalone.lic ``` -> Tempelkan ke folder ``` Licenses ``` (C:\Program Files\MATLAB\R2020a\licenses).
 
 • <strong>Selesai, Nikmati Matlab R2020 Versi Lengkap</strong>.
 
