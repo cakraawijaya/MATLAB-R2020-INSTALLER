@@ -31,7 +31,11 @@ To install MATLAB software on your computer. MATLAB (Matrix Laboratory) is a pro
 
 • In the ``` CONFIRMATION ``` process -> Please check, if it is correct click ``` Begin Install ```.
 
-• After the installation is complete -> Open the ``` JAMU ``` folder -> Copy ``` libmwlmgrimpl.dll ``` -> Paste into the ``` lmgrimpl ``` folder (C:\Program Files\MATLAB\R2020a\bin\win64\matlab_startup_plugins\lmgrimpl) -> Replace the original file.
+• After the installation is complete -> Open the ``` JAMU ``` folder -> Copy ``` libmwlmgrimpl.dll ```.
+
+• Paste into the ``` lmgrimpl ``` folder (C:\Program Files\MATLAB\R2020a\bin\win64\matlab_startup_plugins\lmgrimpl).
+
+• Replace the original file.
 
 • Then copy ``` license_standalone.lic ``` -> Paste into ``` Licenses ``` folder (C:\Program Files\MATLAB\R2020a\licenses).
 
