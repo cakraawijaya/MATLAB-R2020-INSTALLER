@@ -13,11 +13,11 @@ To install MATLAB software on your computer. MATLAB (Matrix Laboratory) is a pro
 
 • Make sure all downloaded parts are in one folder.
 
-• Right-click ``` MATLAB R2020a v9.8.0.1323502.GM.part1 ``` -> Select ``` Extract Here ```.
+• Right click ``` MATLAB R2020a v9.8.0.1323502.GM.part1 ``` -> Select ``` Extract Here ```.
 
-• Open Folder ``` MATLAB R2020a v9.8.0.1323502.GM ``` -> Right-click ``` Matlab98R2020a_Win64.iso ``` -> Select ``` Mount ```.
+• Open Folder ``` MATLAB R2020a v9.8.0.1323502.GM ``` -> Right click ``` Matlab98R2020a_Win64.iso ``` -> Select ``` Mount ```.
 
-• Right-click ``` setup.exe ``` -> Select ``` Run as administrator ```.
+• Right click ``` setup.exe ``` -> Select ``` Run as administrator ```.
 
 • Enter the serial number, generally using the serial number of the ``` standalone license ```.
 
@@ -31,7 +31,11 @@ To install MATLAB software on your computer. MATLAB (Matrix Laboratory) is a pro
 
 • In the ``` CONFIRMATION ``` process -> Please check, if it is correct click ``` Begin Install ```.
 
-• After the installation is complete -> Open the ``` JAMU ``` folder -> Copy ``` libmwlmgrimpl.dll ``` -> Paste into the ``` lmgrimpl ``` folder (C:\Program Files\MATLAB\R2020a\bin\win64\matlab_startup_plugins\lmgrimpl) -> Replace the original file.
+• After the installation is complete -> Open the ``` JAMU ``` folder -> Copy ``` libmwlmgrimpl.dll ```.
+
+• Paste into the ``` lmgrimpl ``` folder (C:\Program Files\MATLAB\R2020a\bin\win64\matlab_startup_plugins\lmgrimpl).
+
+• Replace the original file.
 
 • Then copy ``` license_standalone.lic ``` -> Paste into ``` Licenses ``` folder (C:\Program Files\MATLAB\R2020a\licenses).
 
