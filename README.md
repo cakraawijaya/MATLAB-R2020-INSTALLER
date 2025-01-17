@@ -21,7 +21,7 @@ To install MATLAB software on your computer. MATLAB (Matrix Laboratory) is a pro
 
 • Enter the serial number, generally using the serial number of the ``` standalone license ```.
 
-• In the ``` LICENSING ``` process -> click ``` Browse ``` (point to ``` license_standalone.lic ``` in the ``` JAMU ``` folder) -> Click ``` Next ```.
+• In the ``` LICENSING ``` process -> Click ``` Browse ``` (point to ``` license_standalone.lic ``` in the ``` JAMU ``` folder) -> Click ``` Next ```.
 
 • In the ``` DESTINATION ``` process -> Change the location to: ``` C:\Program Files\MATLAB\R2020a ``` -> Click ``` Next ```.
 
