@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/MATLAB-R2020-INSTALLER?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Installer-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# MATLAB-R2020-INSTALLER
+# MATLAB R2020 INSTALLER
 Untuk menginstal perangkat lunak MATLAB di komputer Anda. MATLAB (Matrix Laboratory) adalah bahasa pemrograman dan lingkungan komputasi numerik yang digunakan untuk berbagai tujuan, seperti analisis data, pemodelan, simulasi, visualisasi, dan pengembangan algoritma.
 
 <br>
