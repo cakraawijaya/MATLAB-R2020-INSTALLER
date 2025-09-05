@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/MATLAB-R2020-INSTALLER?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Installer-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# MATLAB-R2020-INSTALLER
+# MATLAB R2020 INSTALLER
 To install MATLAB software on your computer. MATLAB (Matrix Laboratory) is a programming language and numerical computing environment used for various purposes, such as data analysis, modeling, simulation, visualization, and algorithm development.
 
 <br>
